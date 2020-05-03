@@ -7,6 +7,6 @@ My Documents\Adobe\After Effects ** (Windows) or Documents/Adobe/After Effects *
 
 Lunch it from Animation Presets-User Presets from the Effects & Presets panel window in After Effects.
 
-Just double clicking it or draging it on a new shape layer.
+Just double clicking it or draging it on to a new shape layer.
 
 Enjoy!
