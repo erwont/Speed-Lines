@@ -9,6 +9,6 @@ Lunch it from Animation Presets-User Presets from the Effects & Presets panel wi
 
 Just double clicking it or draging it on to a new shape layer.
 
-*(check that "Expressions" in project settings is set to javascript)
+*(check that "Expressions" in Project Settings is set to JavaScript)
 
 Enjoy!
